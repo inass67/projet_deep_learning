@@ -3,8 +3,8 @@
 > Academic project – **EMSI**, Data & Artificial Intelligence Engineering
 >
 > Author: **Inas Mourid**
-> 
->A hands-on study of how deep learning architectures adapt to the structure of the data: **tabular** (MLP), **images** (CNN) and **sequences** (RNN / LSTM / GRU / Seq2Seq). Every model is built from scratch in **PyTorch** and tested on real datasets.
+
+A hands-on study of how deep learning architectures adapt to the structure of the data: **tabular** (MLP), **images** (CNN) and **sequences** (RNN / LSTM / GRU / Seq2Seq). Every model is built from scratch in **PyTorch** and tested on real datasets.
 
 ## Results
 
@@ -14,7 +14,7 @@
 | II | Images | Fashion-MNIST | CNN (LeNet) vs MLP | **87.12%** vs 84.13% |
 | III | Text sequences | Tatoeba (French → English) | RNN / LSTM / GRU, Seq2Seq | **BLEU-1: 71.65%** |
 
-##  Contents
+## Contents
 
 ### Part I – MLP & PyTorch engineering
 - Binary classification on real medical data
