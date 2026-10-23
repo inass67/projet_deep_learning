@@ -1,6 +1,7 @@
 # Deep Learning with PyTorch: MLP, CNN & RNN/Seq2Seq
 
 > Academic project – **EMSI**, Data & Artificial Intelligence Engineering
+>
 > Author: **Inas Mourid**
 A hands-on study of how deep learning architectures adapt to the structure of the data: **tabular** (MLP), **images** (CNN) and **sequences** (RNN / LSTM / GRU / Seq2Seq). Every model is built from scratch in **PyTorch** and tested on real datasets.
 
