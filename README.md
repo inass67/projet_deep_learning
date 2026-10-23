@@ -1,4 +1,8 @@
-Deep Learning with PyTorch: MLP, CNN & RNN/Seq2Seq
+# Deep Learning with PyTorch: MLP, CNN & RNN/Seq2Seq
+
+> Academic project – **EMSI**, Data & Artificial Intelligence Engineering
+>
+> Author: **Inas Mourid**
 
 > Academic project – **EMSI**, Data & Artificial Intelligence Engineering
 > Author: **Inas Mourid**
